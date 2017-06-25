@@ -1,11 +1,10 @@
-name: Jekyll Video
-description: Template for a video blog.
-url: 'https://jekyll-video.com'
-baseurl: '/jekyll-video'
+name: Sitharal Video
+description: Video blog for the sitharal.
+url: 'https://sitharal.github.io/video'
+baseurl: '/video'
 email: jekyll-video@example.com
-twitter: https://twitter.com/jekyll-video
-youtube: https://www.youtube.com/jekyll-video
-facebook: https://www.facebook.com/jekyll-video
+youtube: https://www.youtube.com/c/Sitharal TV
+facebook: https://www.facebook.com/sitharaltv
 google_analytics: 'UA-00000000-1'
 
 ################################################################
